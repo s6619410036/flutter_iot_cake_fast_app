@@ -1,16 +1,5 @@
 # flutter_iot_cake_fast_app
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="300" src="https://github.com/user-attachments/assets/68ea1c41-abed-4504-8e48-ba08f9a74f35" />
+<br/><br/><br/>
+<img width="300" src="https://github.com/user-attachments/assets/5b4b5f1a-c607-41bf-914b-cada536ddb42" />
